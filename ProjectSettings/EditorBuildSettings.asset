@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1_Scenes/SampleFlappy.unity
+    guid: 2bb3a8f9cd3fe2d4c9399d942f866bb2
+  m_configObjects: {}
